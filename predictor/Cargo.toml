@@ -1,0 +1,11 @@
+[package]
+name = "predictor"
+version = "0.1.0"
+authors = ["Kevin Trogant <greenfoxlight.42@gmail.com>"]
+
+[dependencies]
+
+[dependencies.mysql]
+version = "*"
+default-features = false
+features = ["socket"]

@@ -1,0 +1,6 @@
+predictor/Cargo.lock
+predictor/target
+
+.DS_Store
+
+*.swp
